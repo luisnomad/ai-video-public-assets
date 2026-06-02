@@ -1,0 +1,17 @@
+{
+  "published_at": "2026-06-02T09:00:46.596100+00:00",
+  "repo": "luisnomad/ai-video-public-assets",
+  "branch": "main",
+  "prefix": "worth-the-pain/dreamina-rework-2026-06-02/refs",
+  "public": true,
+  "entries": [
+    {
+      "local_path": "/Volumes/SSD_Storage2TB/Users/luisnomad/Projects/agentic-video/video-projects/worth-the-pain-method-lab/runs/dreamina-rework-2026-06-02/refs/source-frames/16c-retry2-frame-004.jpg",
+      "repo_path": "worth-the-pain/dreamina-rework-2026-06-02/refs/16c-retry2-frame-004.jpg",
+      "raw_url": "https://raw.githubusercontent.com/luisnomad/ai-video-public-assets/main/worth-the-pain/dreamina-rework-2026-06-02/refs/16c-retry2-frame-004.jpg",
+      "size_bytes": 47689,
+      "sha256": "61eb12d3e9695c198b729a77e3a9f11cbc65d3c92b418bf38b4e8894861c6b85",
+      "mime_type": "image/jpeg"
+    }
+  ]
+}
