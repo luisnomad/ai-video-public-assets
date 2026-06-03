@@ -1,0 +1,33 @@
+{
+  "published_at": "2026-06-03T15:01:58.349643+00:00",
+  "repo": "luisnomad/ai-video-public-assets",
+  "branch": "main",
+  "prefix": "worth-the-pain/runway-bike-growth-ending-2026-06-03/refs",
+  "public": true,
+  "entries": [
+    {
+      "local_path": "/Volumes/SSD_Storage2TB/Users/luisnomad/Projects/agentic-video/video-projects/worth-the-pain-method-lab/runs/runway-bike-growth-ending-2026-06-03/refs/son-helmet-anchor-clean.png",
+      "repo_path": "worth-the-pain/runway-bike-growth-ending-2026-06-03/refs/son-helmet-anchor-clean.png",
+      "raw_url": "https://raw.githubusercontent.com/luisnomad/ai-video-public-assets/main/worth-the-pain/runway-bike-growth-ending-2026-06-03/refs/son-helmet-anchor-clean.png",
+      "size_bytes": 34559,
+      "sha256": "42fbc40ad3d99650521df429a616cc543cdd207db2a1dfc56163b50a54d54508",
+      "mime_type": "image/png"
+    },
+    {
+      "local_path": "/Volumes/SSD_Storage2TB/Users/luisnomad/Projects/agentic-video/video-projects/worth-the-pain-method-lab/runs/runway-bike-growth-ending-2026-06-03/refs/son-riding-small-bike-clean.png",
+      "repo_path": "worth-the-pain/runway-bike-growth-ending-2026-06-03/refs/son-riding-small-bike-clean.png",
+      "raw_url": "https://raw.githubusercontent.com/luisnomad/ai-video-public-assets/main/worth-the-pain/runway-bike-growth-ending-2026-06-03/refs/son-riding-small-bike-clean.png",
+      "size_bytes": 69962,
+      "sha256": "556027e6ddb6415c23e43492f367dc8190a771af9b954c59af37ec54d1ef9199",
+      "mime_type": "image/png"
+    },
+    {
+      "local_path": "/Volumes/SSD_Storage2TB/Users/luisnomad/Projects/agentic-video/video-projects/worth-the-pain-method-lab/runs/runway-bike-growth-ending-2026-06-03/refs/suburban-bike-road-clean.png",
+      "repo_path": "worth-the-pain/runway-bike-growth-ending-2026-06-03/refs/suburban-bike-road-clean.png",
+      "raw_url": "https://raw.githubusercontent.com/luisnomad/ai-video-public-assets/main/worth-the-pain/runway-bike-growth-ending-2026-06-03/refs/suburban-bike-road-clean.png",
+      "size_bytes": 72211,
+      "sha256": "786f32bcc3d13174688b80bea0b1b29366057a8b37aa03323cd0be64b3640e65",
+      "mime_type": "image/png"
+    }
+  ]
+}
